@@ -1,2 +1,2 @@
-# hello-world
-first github repository
+# hello-word
+Hello i am Nikesh shindhe
